@@ -1,0 +1,29 @@
+body
+{
+    padding: 0;
+    margin: 0;
+
+    background: #efefef;
+
+    font-family: Arial,Helvetica,sans-serif;
+	font-size: 17px;
+}
+
+.container
+{
+    width: 700px;
+    
+    margin: 0 auto;
+}
+
+main
+{
+    padding: 40px 0 20px;
+    min-height: calc(100vh - 100px);
+}
+
+footer
+{
+    height: 40px;
+	text-align: center;
+}
